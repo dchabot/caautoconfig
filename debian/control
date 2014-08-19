@@ -1,0 +1,12 @@
+Source: caautoconfig
+Maintainer: Daron Chabot <dchabot@bnl.gov>
+Section: python
+Priority: optional
+Build-Depends: python-all (>= 2.6.6-3), debhelper (>= 7.4.3)
+Standards-Version: 3.9.1
+
+Package: python-caautoconfig
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Python Utilities to autogenerate archiver file
+

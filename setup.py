@@ -7,5 +7,8 @@ setup(name='CAAutoConfig',
       description='Python Utilities to autogenerate archiver file',
       author='Stuart Wilkins',
       author_email='swilkins@bnl.gov',
-      packages=['CAAutoConfig']
+      url='https://github.com/NSLS-II-CSX/CAAutoConfig.git',
+      license='LICENSE',
+      packages=['CAAutoConfig'],
+      scripts=['make-engine-cfg']
      )

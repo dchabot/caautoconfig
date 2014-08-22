@@ -1,0 +1,2 @@
+python-caautoconfig: binary-without-manpage usr/bin/make-engine-cfg
+python-caautoconfig: new-package-should-close-itp-bug

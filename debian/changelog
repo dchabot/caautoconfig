@@ -1,3 +1,9 @@
+caautoconfig (1.1-1) unstable; urgency=low
+
+  * make-engine-cfg can now digest multiple files and read from stdin.
+
+ -- Daron Chabot <dchabot@bnl.gov>  Mon, 29 Sep 2014 21:40:11 -0400
+
 caautoconfig (1.0-1) unstable; urgency=low
 
   * Initial packaging.
